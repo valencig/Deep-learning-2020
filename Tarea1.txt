@@ -1,0 +1,12 @@
+Les envío el Notebook de Jupyter (01_Perceptron.ipynb)con la primera tarea del curso.
+- Las instrucciones están en algunas celdas del mismo notebook.
+- Jueguen con el código y desmenúcenlo para entender Gradient Descent (GD).
+- Deben entregar, por correo, un PDF con las respuestas a las preguntas, la gráfica de la primera pregunta, y el Notebook con el código terminado.
+- El deadline es el día jueves 30 de enero antes de las 4:00 pm.
+
+Les dejo unas ligas con explicaciones de GD.
+https://www.youtube.com/watch?v=yFPLyDwVifc
+https://www.youtube.com/watch?v=rIVLE3condE
+https://www.youtube.com/watch?v=IHZwWFHWa-w
+
+Por cierto, Andrew Ng es excelente explicando.
