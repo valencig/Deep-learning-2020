@@ -1,0 +1,11 @@
+Les envío la segunda práctica del curso de aprendizaje profundo.
+
+Disculpen la tardanza, fueron unos días de poco acceso a mi computadora. Debido a tal tardanza, esta práctica no la evaluaré, así que no tienen que entregar ningún reporte.
+Sin embargo, les sugiero que revisen el código y que traten de jugar con él. Discutiremos sobre él al inicio de la siguiente clase.
+
+Les dejo a continuación algunas sugerencias de cosas que podrían probar:
+- Jueguen con la profundidad y anchura de la red, es decir, número de capas y número de neuronas en cada capa. Revisen si al modificarla ocurre algún cambio en el desempeño.
+- Revisen la parte donde se grafica el rendimiento de entrenamiento y validación por época.
+- Jueguen cambiando las funciones de activación. ¿Hay algún cambio en el desempeño? ¿Implica algún cambio en el tiempo de entrenamiento?
+- Intenten cambiando X por Y y viceversa, o usando distintas combinaciones de las dimensiones de los datos para crear X y Y. ¿Hay alguna combinación que haga más fácil el problema de regresión?
+- Si lo corren repetidas veces, digamos 100, ¿el desempeño cambia de manera significativa?
